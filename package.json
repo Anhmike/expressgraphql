@@ -1,6 +1,6 @@
 
 {
-    "name": "expressgraphql-first",
+    "name": "expressgraphql",
     "version": "0.0.1",
     "scripts":{
         "start": "node index.js"
